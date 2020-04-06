@@ -1,0 +1,1 @@
+"./main.o" "./tm4c123gh6pm_startup_ccs_gcc.o" "./util/NVIC.o" "./util/Software_Delay.o" "./util/SysCtr.o" "./util/SysCtr_lcfg.o" -Wl,-T"../tm4c123gh6pm.lds" 
