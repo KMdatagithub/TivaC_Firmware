@@ -1,5 +1,5 @@
 /**
- * main.c
+ * File Name: main.c
  */
 
 #include "util/SysCtr.h"
